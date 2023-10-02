@@ -1,7 +1,5 @@
 # PHP testing skeleton
 
-This template is designed to be used as a basis for php solutions to https://katalyst.codurance.com/
-
 ## Getting started
 
 To get everything ready run the following commands:
