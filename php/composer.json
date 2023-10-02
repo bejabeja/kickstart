@@ -1,0 +1,18 @@
+{
+    "name": "mabella/php-kickstart",
+    "description": "A skeleton for php based",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "authors": [
+        {
+            "name": "Miriam Abella"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "" : "src/"
+        }
+    }
+}
